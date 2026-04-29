@@ -2,10 +2,6 @@
 
 Production-ready full stack task management application with secure authentication and multi-user task handling.
 
-## Live Demo
-Frontend: https://your-vercel-url.vercel.app  
-Backend API: https://your-render-url.onrender.com
-
 ---
 
 ## Features
